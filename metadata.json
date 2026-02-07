@@ -1,0 +1,7 @@
+{
+  "name": "Digital Contact",
+  "description": "A secure contact sharing platform using QR codes. Mask your real number while allowing verified users to contact you or your emergency contact during emergencies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
